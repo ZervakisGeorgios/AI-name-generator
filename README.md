@@ -27,3 +27,5 @@ torch library
 μιλαστα.
 βαπη.
 ρασεριμπελα.
+## AI Resource
+This script was written after following the YouTube course with name [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&t=7s). The instructor has stored the original code in his own GitHub repository https://github.com/karpathy/makemore
