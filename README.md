@@ -8,3 +8,22 @@ The neural network was trained by consuming 6.547 Greek female names as obtained
 ```
 torch library
 ```
+
+## Sample Output
+γη.
+καλουρικομπισαλα.
+φρεικη.
+πη.
+μαμασανιαριω.
+βσσακιννεμανω.
+κη.
+αναυ.
+ουλιτωβεσ.
+πζονου.
+εωρω.
+ζου.
+οφρωτιεννα.
+σαρα.
+μιλαστα.
+βαπη.
+ρασεριμπελα.
